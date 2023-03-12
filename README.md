@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# This is my life
+
+I like artificial intelligence
+
 <!--
 **mc-o/mc-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
